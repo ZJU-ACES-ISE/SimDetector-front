@@ -1,0 +1,1942 @@
+[
+    {
+        "hubname": "js-cookie",
+        "versionlist": [
+            {
+                "version": "js-cookie@2.2.1",
+                "coverage": 1,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 0,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "js-cookie@3.0.0-beta.0",
+                "coverage": 1,
+                "averdis": 12,
+                "lineweightdis": 12,
+                "maxweightdis": 12,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "js-cookie@1.5.0",
+                "coverage": 0.19930675909878684,
+                "averdis": 6,
+                "lineweightdis": 6,
+                "maxweightdis": 52.440207972270365,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "vue-router",
+        "versionlist": [
+            {
+                "version": "vue-router@3.6.5",
+                "coverage": 0.9999999999999999,
+                "averdis": 4.571428571428571,
+                "lineweightdis": 6.776153939836805,
+                "maxweightdis": 6.776153939836811,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue-router@3.5.3",
+                "coverage": 1,
+                "averdis": 4.714285714285714,
+                "lineweightdis": 7.119728311207162,
+                "maxweightdis": 7.119728311207162,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue-router@3.4.7",
+                "coverage": 1,
+                "averdis": 6.5,
+                "lineweightdis": 8.92144535467073,
+                "maxweightdis": 8.92144535467073,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue-router@3.1.4",
+                "coverage": 0.6967466813398444,
+                "averdis": 4.181818181818182,
+                "lineweightdis": 4.1857847976308,
+                "maxweightdis": 22.32464406080199,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue-router@2.5.3",
+                "coverage": 0.5139585422935473,
+                "averdis": 4.285714285714286,
+                "lineweightdis": 3.860790372418279,
+                "maxweightdis": 33.090939485122036,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "popper.js",
+        "versionlist": [
+            {
+                "version": "popper.js@0.5.2",
+                "coverage": 1,
+                "averdis": 4.181818181818182,
+                "lineweightdis": 6.0434503424657535,
+                "maxweightdis": 6.0434503424657535,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "popper.js@0.3.3",
+                "coverage": 0.774197260904592,
+                "averdis": 9.625,
+                "lineweightdis": 12.409394975471978,
+                "maxweightdis": 24.058694901599726,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "popper.js@1.0.0-alpha.5",
+                "coverage": 0.37455796616649145,
+                "averdis": 9.6,
+                "lineweightdis": 13.48787956111253,
+                "maxweightdis": 45.08028290165344,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "popper.js@1.0.2",
+                "coverage": 0.0481461824247479,
+                "averdis": 12,
+                "lineweightdis": 12.000000000000002,
+                "maxweightdis": 61.49639851391311,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "vuex",
+        "versionlist": [
+            {
+                "version": "vuex@3.6.1",
+                "coverage": 1,
+                "averdis": 4.333333333333333,
+                "lineweightdis": 7.241158536585366,
+                "maxweightdis": 7.241158536585366,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vuex@3.6.2",
+                "coverage": 1,
+                "averdis": 4.666666666666667,
+                "lineweightdis": 7.798170731707317,
+                "maxweightdis": 7.798170731707317,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vuex@3.2.0",
+                "coverage": 1,
+                "averdis": 9,
+                "lineweightdis": 11.963161933998466,
+                "maxweightdis": 11.963161933998466,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vuex@3.1.3",
+                "coverage": 1,
+                "averdis": 10,
+                "lineweightdis": 13.063492063492063,
+                "maxweightdis": 13.063492063492063,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vuex@4.0.0-beta.4",
+                "coverage": 0.35091420534458506,
+                "averdis": 9.5,
+                "lineweightdis": 11.651302605210423,
+                "maxweightdis": 45.63009845288327,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vuex@4.1.0",
+                "coverage": 0.19603780914152533,
+                "averdis": 8,
+                "lineweightdis": 9.88110964332893,
+                "maxweightdis": 53.39065130130778,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "vue",
+        "versionlist": [
+            {
+                "version": "vue@2.6.13",
+                "coverage": 0.9805390895872945,
+                "averdis": 2.1666666666666665,
+                "lineweightdis": 2.711047108474963,
+                "maxweightdis": 3.903785929985458,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue@2.6.12",
+                "coverage": 0.9804905395935529,
+                "averdis": 3.1666666666666665,
+                "lineweightdis": 5.299493982103548,
+                "maxweightdis": 6.444709180098107,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue@2.7.13",
+                "coverage": 0.8028175774593804,
+                "averdis": 7.791666666666667,
+                "lineweightdis": 10.890675914023497,
+                "maxweightdis": 21.36290109679122,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "vue@2.4.4",
+                "coverage": 0.7875368007850835,
+                "averdis": 10.117647058823529,
+                "lineweightdis": 11.992191069574245,
+                "maxweightdis": 23.041936539090607,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.9805390895872945
+    },
+    {
+        "hubname": "axios",
+        "versionlist": [
+            {
+                "version": "axios@0.19.2",
+                "coverage": 0.7178683385579937,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 18.056426332288403,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "axios@0.16.2",
+                "coverage": 0.8256637168141593,
+                "averdis": 11.666666666666666,
+                "lineweightdis": 11.9124687388353,
+                "maxweightdis": 20.99321533923304,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "axios@0.19.0",
+                "coverage": 0.5381016042780749,
+                "averdis": 3.6666666666666665,
+                "lineweightdis": 5.634368530020705,
+                "maxweightdis": 32.59336007130125,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "axios@0.21.2",
+                "coverage": 0.45016839216664584,
+                "averdis": 10.25,
+                "lineweightdis": 10.680520919922417,
+                "maxweightdis": 39.997255831358366,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.8256637168141593
+    },
+    {
+        "hubname": "uuid",
+        "versionlist": [
+            {
+                "version": "uuid@8.0.0",
+                "coverage": 0.41956860706860705,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 41.34329521829522,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "uuid@7.0.0-beta.0",
+                "coverage": 0.4191873296118395,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 41.36388420096066,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "uuid@7.0.2-beta.0",
+                "coverage": 0.4179935275080906,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 41.42834951456311,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "uuid@8.2.0",
+                "coverage": 0.4164177165865697,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 41.513443304325236,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "uuid@8.3.2-beta.0",
+                "coverage": 0.40276381909547737,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 42.25075376884422,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "uuid@9.0.0",
+                "coverage": 0.36745886654478976,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 44.157221206581355,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.41956860706860705
+    },
+    {
+        "hubname": "lodash",
+        "versionlist": [
+            {
+                "version": "lodash@4.16.1",
+                "coverage": 0.39756722151088353,
+                "averdis": 11,
+                "lineweightdis": 2.919908466819222,
+                "maxweightdis": 39.716557719522875,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.3",
+                "coverage": 0.3968718466195762,
+                "averdis": 11,
+                "lineweightdis": 2.919908466819222,
+                "maxweightdis": 39.7590312815338,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.2",
+                "coverage": 0.3964717741935484,
+                "averdis": 11,
+                "lineweightdis": 2.919908466819222,
+                "maxweightdis": 39.78346774193548,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.4",
+                "coverage": 0.39645845233695104,
+                "averdis": 11,
+                "lineweightdis": 2.919908466819222,
+                "maxweightdis": 39.784281442155844,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.15.0",
+                "coverage": 0.39984508654947126,
+                "averdis": 12,
+                "lineweightdis": 4.812600016844942,
+                "maxweightdis": 40.334208931097194,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.0",
+                "coverage": 0.3990669055749011,
+                "averdis": 12,
+                "lineweightdis": 4.817350050830227,
+                "maxweightdis": 40.38216302106224,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.5",
+                "coverage": 0.3980952380952381,
+                "averdis": 12,
+                "lineweightdis": 4.809871568874339,
+                "maxweightdis": 40.436691729323314,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.16.6",
+                "coverage": 0.3980952380952381,
+                "averdis": 12,
+                "lineweightdis": 4.809871568874339,
+                "maxweightdis": 40.436691729323314,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.3",
+                "coverage": 0.3978530582215831,
+                "averdis": 12,
+                "lineweightdis": 4.810960746406657,
+                "maxweightdis": 40.45145971976056,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.4",
+                "coverage": 0.3978530582215831,
+                "averdis": 12,
+                "lineweightdis": 4.810960746406657,
+                "maxweightdis": 40.45145971976056,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.0",
+                "coverage": 0.39777324551138454,
+                "averdis": 12,
+                "lineweightdis": 4.810960746406657,
+                "maxweightdis": 40.45618375739744,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.2",
+                "coverage": 0.39777324551138454,
+                "averdis": 12,
+                "lineweightdis": 4.810960746406657,
+                "maxweightdis": 40.45618375739744,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.1",
+                "coverage": 0.39777324551138454,
+                "averdis": 12,
+                "lineweightdis": 4.810960746406657,
+                "maxweightdis": 40.45618375739744,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.11",
+                "coverage": 0.39748478159074185,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.47361027493478,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.17",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.15",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.13",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.16",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.14",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.18",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.12",
+                "coverage": 0.3966357386022295,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.52386356050998,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.19",
+                "coverage": 0.39646371976647204,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.53404503753128,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.20",
+                "coverage": 0.39646371976647204,
+                "averdis": 12,
+                "lineweightdis": 4.811847862672501,
+                "maxweightdis": 40.53404503753128,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.21",
+                "coverage": 0.39515272244355915,
+                "averdis": 12,
+                "lineweightdis": 4.810620063854814,
+                "maxweightdis": 40.61115537848605,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.9",
+                "coverage": 0.3977523580172587,
+                "averdis": 13,
+                "lineweightdis": 6.709889001009081,
+                "maxweightdis": 41.212723259080875,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.5",
+                "coverage": 0.3977523580172587,
+                "averdis": 13,
+                "lineweightdis": 6.709889001009081,
+                "maxweightdis": 41.212723259080875,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.17.10",
+                "coverage": 0.39773905481788685,
+                "averdis": 13,
+                "lineweightdis": 6.709889001009082,
+                "maxweightdis": 41.21348540084953,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.0.0",
+                "coverage": 0.3511646518680763,
+                "averdis": 10.333333333333334,
+                "lineweightdis": 2.1550917596257646,
+                "maxweightdis": 42.282254327955854,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.10.1",
+                "coverage": 0.38377997179125534,
+                "averdis": 17,
+                "lineweightdis": 7.530564743354159,
+                "maxweightdis": 42.32816173013634,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.10.0",
+                "coverage": 0.38377997179125534,
+                "averdis": 17,
+                "lineweightdis": 7.530564743354159,
+                "maxweightdis": 42.32816173013634,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.0.1",
+                "coverage": 0.3545989080218396,
+                "averdis": 11,
+                "lineweightdis": 3.857988866516641,
+                "maxweightdis": 42.67370852582948,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.2.1",
+                "coverage": 0.3535551751492631,
+                "averdis": 11,
+                "lineweightdis": 3.871634388285309,
+                "maxweightdis": 42.74130516471128,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.1.0",
+                "coverage": 0.35318704284221525,
+                "averdis": 11,
+                "lineweightdis": 3.8564497041420123,
+                "maxweightdis": 42.758077324973875,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.2.0",
+                "coverage": 0.3530689842476915,
+                "averdis": 11,
+                "lineweightdis": 3.856449704142012,
+                "maxweightdis": 42.765177787991476,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.3.0",
+                "coverage": 0.35922823051535924,
+                "averdis": 11.666666666666666,
+                "lineweightdis": 5.59399293286219,
+                "maxweightdis": 43.01891342980452,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.5.0",
+                "coverage": 0.35860205976701,
+                "averdis": 11.666666666666666,
+                "lineweightdis": 5.592867231638418,
+                "maxweightdis": 43.05508188418031,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.4.0",
+                "coverage": 0.35860205976701,
+                "averdis": 11.666666666666666,
+                "lineweightdis": 5.592867231638418,
+                "maxweightdis": 43.05508188418031,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.8.2",
+                "coverage": 0.32794869713450764,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257428,
+                "maxweightdis": 43.50077116649079,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.8.0",
+                "coverage": 0.32794869713450764,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257428,
+                "maxweightdis": 43.50077116649079,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.8.1",
+                "coverage": 0.32794869713450764,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257428,
+                "maxweightdis": 43.50077116649079,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.9.0",
+                "coverage": 0.3277624533506409,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257428,
+                "maxweightdis": 43.51241278598086,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.10.0",
+                "coverage": 0.32766941076280465,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257426,
+                "maxweightdis": 43.51822863863092,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.7.0",
+                "coverage": 0.3272845106934543,
+                "averdis": 10,
+                "lineweightdis": 1.4925742574257423,
+                "maxweightdis": 43.542287751134154,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.14.0",
+                "coverage": 0.33494874184529355,
+                "averdis": 11,
+                "lineweightdis": 3.208013355592654,
+                "maxweightdis": 43.63780055917987,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.5.1",
+                "coverage": 0.34331130404734134,
+                "averdis": 12,
+                "lineweightdis": 5.21389028686462,
+                "maxweightdis": 43.81806401451341,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.11.1",
+                "coverage": 0.33139231356170434,
+                "averdis": 11,
+                "lineweightdis": 3.3153174987881724,
+                "maxweightdis": 43.889562668165944,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.11.0",
+                "coverage": 0.33139231356170434,
+                "averdis": 11,
+                "lineweightdis": 3.3153174987881724,
+                "maxweightdis": 43.889562668165944,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.6.1",
+                "coverage": 0.3411820209298336,
+                "averdis": 12,
+                "lineweightdis": 5.212822124450032,
+                "maxweightdis": 43.94287184765827,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.6.0",
+                "coverage": 0.34100651577503427,
+                "averdis": 12,
+                "lineweightdis": 5.212822124450032,
+                "maxweightdis": 43.95318930041152,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.2.0",
+                "coverage": 0.322738249003201,
+                "averdis": 9,
+                "lineweightdis": 1.8886375500261006,
+                "maxweightdis": 43.954287639692254,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.9.3",
+                "coverage": 0.35730966837926204,
+                "averdis": 17,
+                "lineweightdis": 7.968366013071896,
+                "maxweightdis": 43.97935544138253,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.9.0",
+                "coverage": 0.35677449601500233,
+                "averdis": 17,
+                "lineweightdis": 7.999737187910645,
+                "maxweightdis": 44.02053445850915,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.9.1",
+                "coverage": 0.35677449601500233,
+                "averdis": 17,
+                "lineweightdis": 7.999737187910645,
+                "maxweightdis": 44.02053445850915,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.3.1",
+                "coverage": 0.32154233025984913,
+                "averdis": 9,
+                "lineweightdis": 1.8863399374348278,
+                "maxweightdis": 44.02782900251467,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.3.0",
+                "coverage": 0.32154233025984913,
+                "averdis": 9,
+                "lineweightdis": 1.8863399374348278,
+                "maxweightdis": 44.02782900251467,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.9.2",
+                "coverage": 0.356440281030445,
+                "averdis": 17,
+                "lineweightdis": 7.999737187910643,
+                "maxweightdis": 44.03925058548009,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.11.2",
+                "coverage": 0.3286634911739983,
+                "averdis": 11,
+                "lineweightdis": 3.3218852758494704,
+                "maxweightdis": 44.0573189769043,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.14.1",
+                "coverage": 0.33550452227639854,
+                "averdis": 12,
+                "lineweightdis": 5.070335034390948,
+                "maxweightdis": 44.22883090780511,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.14.2",
+                "coverage": 0.334400357328966,
+                "averdis": 12,
+                "lineweightdis": 5.073909171861086,
+                "maxweightdis": 44.29509417107124,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.12.0",
+                "coverage": 0.32452276064610863,
+                "averdis": 11,
+                "lineweightdis": 3.3273816803228566,
+                "maxweightdis": 44.31035440727071,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.7.0",
+                "coverage": 0.3378513816637235,
+                "averdis": 14.666666666666666,
+                "lineweightdis": 6.767622545557284,
+                "maxweightdis": 44.66396220111679,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.8.0",
+                "coverage": 0.33574041522162573,
+                "averdis": 14.666666666666666,
+                "lineweightdis": 6.748549596717136,
+                "maxweightdis": 44.7783742695615,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.6.0",
+                "coverage": 0.3356040186228865,
+                "averdis": 14.666666666666666,
+                "lineweightdis": 6.928446261682244,
+                "maxweightdis": 44.84655721636854,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.4.0",
+                "coverage": 0.3174324027258738,
+                "averdis": 10,
+                "lineweightdis": 3.969529085872577,
+                "maxweightdis": 44.94438338096285,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.0.1",
+                "coverage": 0.29395965483741926,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 45.18658209040517,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.0.0",
+                "coverage": 0.29374143444495204,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 45.20054819552307,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.5.0",
+                "coverage": 0.3129605548331166,
+                "averdis": 10,
+                "lineweightdis": 3.9695290858725762,
+                "maxweightdis": 45.212830515821416,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@3.1.0",
+                "coverage": 0.2935402876055695,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 45.21342159324355,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.13.0",
+                "coverage": 0.31540565177757524,
+                "averdis": 12,
+                "lineweightdis": 5.212364915807991,
+                "maxweightdis": 45.45804763980817,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "lodash@4.13.1",
+                "coverage": 0.31499366687777075,
+                "averdis": 12,
+                "lineweightdis": 5.212364915807992,
+                "maxweightdis": 45.482267257758075,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.39984508654947126
+    },
+    {
+        "hubname": "react-router-dom",
+        "versionlist": [
+            {
+                "version": "react-router-dom@5.0.1",
+                "coverage": 0.2644327815906338,
+                "averdis": 3.5,
+                "lineweightdis": 2.8717557251908397,
+                "maxweightdis": 47.83568833266048,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "react-router-dom@4.1.1",
+                "coverage": 0.19204456606724002,
+                "averdis": 3.5,
+                "lineweightdis": 2.8717557251908397,
+                "maxweightdis": 52.260652853792024,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.2644327815906338
+    },
+    {
+        "hubname": "inquirer",
+        "versionlist": [
+            {
+                "version": "inquirer@1.1.0",
+                "coverage": 0.1911568668390537,
+                "averdis": 12,
+                "lineweightdis": 4.810620063854815,
+                "maxweightdis": 52.685543581260134,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "inquirer@3.0.5",
+                "coverage": 0.04720531267293857,
+                "averdis": 13.666666666666666,
+                "lineweightdis": 5.661352090660415,
+                "maxweightdis": 61.246105884523146,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "inquirer@5.0.0",
+                "coverage": 0.04183860989215808,
+                "averdis": 13.666666666666666,
+                "lineweightdis": 5.661352090660413,
+                "maxweightdis": 61.55919206848518,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "inquirer@6.5.1",
+                "coverage": 0.041783002694097474,
+                "averdis": 13.666666666666666,
+                "lineweightdis": 5.661352090660415,
+                "maxweightdis": 61.56243611723406,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.1911568668390537
+    },
+    {
+        "hubname": "core-js",
+        "versionlist": [
+            {
+                "version": "core-js@3.22.0",
+                "coverage": 0.17032594112540447,
+                "averdis": 6.615384615384615,
+                "lineweightdis": 6.584283198962098,
+                "maxweightdis": 54.220614000473525,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "core-js@3.26.1",
+                "coverage": 0.1610693240070905,
+                "averdis": 7,
+                "lineweightdis": 6.962026571485226,
+                "maxweightdis": 54.81293217713473,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "core-js@3.15.1",
+                "coverage": 0.14163604566622784,
+                "averdis": 11.88888888888889,
+                "lineweightdis": 11.686736958934514,
+                "maxweightdis": 56.59055628696626,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "core-js@3.0.0-alpha.3",
+                "coverage": 0.1289743031358885,
+                "averdis": 9,
+                "lineweightdis": 8.616715913887717,
+                "maxweightdis": 56.85697952961672,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.17032594112540447
+    },
+    {
+        "hubname": "chalk",
+        "versionlist": [
+            {
+                "version": "chalk@1.1.1",
+                "coverage": 0.163820704375667,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 53.51547491995731,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.163820704375667
+    },
+    {
+        "hubname": "styled-components",
+        "versionlist": [
+            {
+                "version": "styled-components@0.4.0",
+                "coverage": 0.12509459345833684,
+                "averdis": 12,
+                "lineweightdis": 4.810620063854814,
+                "maxweightdis": 56.59572857983688,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.12509459345833684
+    },
+    {
+        "hubname": "path",
+        "versionlist": [
+            {
+                "version": "path@0.11.14",
+                "coverage": 0.1008318628686665,
+                "averdis": 12,
+                "lineweightdis": 11.999999999999998,
+                "maxweightdis": 58.75674313082934,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "path@0.12.7",
+                "coverage": 0.07362307980517048,
+                "averdis": 12,
+                "lineweightdis": 12,
+                "maxweightdis": 60.17159985013114,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.1008318628686665
+    },
+    {
+        "hubname": "mongoose",
+        "versionlist": [
+            {
+                "version": "mongoose@6.7.5",
+                "coverage": 0.07763157146189253,
+                "averdis": 8.763157894736842,
+                "lineweightdis": 9.599662904880544,
+                "maxweightdis": 59.776816343249195,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "mongoose@6.0.1",
+                "coverage": 0.04960553152385862,
+                "averdis": 12.18,
+                "lineweightdis": 12.605642155201625,
+                "maxweightdis": 61.450555561781385,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.07763157146189253
+    },
+    {
+        "hubname": "cheerio",
+        "versionlist": [
+            {
+                "version": "cheerio@0.20.0",
+                "coverage": 0.06591907060216527,
+                "averdis": 12.333333333333334,
+                "lineweightdis": 5.149013290374547,
+                "maxweightdis": 60.12059765208111,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "cheerio@0.8.2",
+                "coverage": 0.0032429978743742064,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.82487811478379,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.06591907060216527
+    },
+    {
+        "hubname": "eslint-plugin-import",
+        "versionlist": [
+            {
+                "version": "eslint-plugin-import@2.12.0",
+                "coverage": 0.05637285085018708,
+                "averdis": 12,
+                "lineweightdis": 4.810620063854814,
+                "maxweightdis": 60.663325912944636,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "eslint-plugin-import@2.19.0",
+                "coverage": 0.005764792886227758,
+                "averdis": 11.5,
+                "lineweightdis": 11.300618238021638,
+                "maxweightdis": 63.69619897890995,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "eslint-plugin-import@2.23.2",
+                "coverage": 0.0052621091541993174,
+                "averdis": 11.5,
+                "lineweightdis": 11.30061823802164,
+                "maxweightdis": 63.72269010080965,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "eslint-plugin-import@2.26.0",
+                "coverage": 0.0036606255524648046,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.8023262201669,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.05637285085018708
+    },
+    {
+        "hubname": "rxjs",
+        "versionlist": [
+            {
+                "version": "rxjs@6.6.6",
+                "coverage": 0.05615640599001664,
+                "averdis": 11,
+                "lineweightdis": 11,
+                "maxweightdis": 61.02371048252912,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.05615640599001664
+    },
+    {
+        "hubname": "commander",
+        "versionlist": [
+            {
+                "version": "commander@9.4.1",
+                "coverage": 0.04496352413019079,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 61.571969696969695,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.04496352413019079
+    },
+    {
+        "hubname": "@testing-library/react",
+        "versionlist": [
+            {
+                "version": "%40testing-library%2Freact@12.1.0",
+                "coverage": 0.035669037760554904,
+                "averdis": 6.153846153846154,
+                "lineweightdis": 7.488937394582796,
+                "maxweightdis": 61.98430477403829,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@13.0.0-alpha.5",
+                "coverage": 0.03553988541207581,
+                "averdis": 6.153846153846154,
+                "lineweightdis": 7.488888888888888,
+                "maxweightdis": 61.99160158660202,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@10.0.0-beta.1",
+                "coverage": 0.03624531907697699,
+                "averdis": 9.5,
+                "lineweightdis": 10.93423271500843,
+                "maxweightdis": 62.07661433269087,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@9.1.3",
+                "coverage": 0.03597325967476453,
+                "averdis": 9.5,
+                "lineweightdis": 10.934232715008429,
+                "maxweightdis": 62.091051373616374,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@11.0.1",
+                "coverage": 0.033984161608135416,
+                "averdis": 9.5,
+                "lineweightdis": 10.935026978417264,
+                "maxweightdis": 62.19663138110319,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@10.1.0",
+                "coverage": 0.03397935876183129,
+                "averdis": 9.5,
+                "lineweightdis": 10.935026978417262,
+                "maxweightdis": 62.19688624401274,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@11.2.2",
+                "coverage": 0.03397566891388629,
+                "averdis": 9.5,
+                "lineweightdis": 10.934232715008433,
+                "maxweightdis": 62.19705506006379,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@10.4.3",
+                "coverage": 0.03397001657260251,
+                "averdis": 9.5,
+                "lineweightdis": 10.935026978417266,
+                "maxweightdis": 62.19738198703213,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@8.0.8",
+                "coverage": 0.02580634727246263,
+                "averdis": 8.6,
+                "lineweightdis": 10.72467098391477,
+                "maxweightdis": 62.625158358356195,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@0.0.0",
+                "coverage": 0.02577869205583319,
+                "averdis": 8.6,
+                "lineweightdis": 10.724670983914768,
+                "maxweightdis": 62.62663169912115,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Freact@13.4.0",
+                "coverage": 0.01899061235035742,
+                "averdis": 4.625,
+                "lineweightdis": 4.561980347694633,
+                "maxweightdis": 62.871235609910144,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.03624531907697699
+    },
+    {
+        "hubname": "bluebird",
+        "versionlist": [
+            {
+                "version": "bluebird@0.7.12-2",
+                "coverage": 0.03549046321525885,
+                "averdis": 11,
+                "lineweightdis": 11,
+                "maxweightdis": 62.119005449591285,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.03549046321525885
+    },
+    {
+        "hubname": "yeoman-generator",
+        "versionlist": [
+            {
+                "version": "yeoman-generator@5.0.0",
+                "coverage": 0.03544103562935144,
+                "averdis": 15.5,
+                "lineweightdis": 6.184606042204342,
+                "maxweightdis": 61.95096256281678,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "yeoman-generator@5.7.0",
+                "coverage": 0.034781185316605415,
+                "averdis": 15.5,
+                "lineweightdis": 6.184606042204342,
+                "maxweightdis": 61.98911206860136,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.03544103562935144
+    },
+    {
+        "hubname": "ws",
+        "versionlist": [
+            {
+                "version": "ws@2.2.1",
+                "coverage": 0.029030105294379355,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 62.43237431410352,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "ws@5.1.0",
+                "coverage": 0.023967173365662595,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 62.705772638254224,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.029030105294379355
+    },
+    {
+        "hubname": "eslint",
+        "versionlist": [
+            {
+                "version": "eslint@4.0.0-rc.0",
+                "coverage": 0.023031590796688886,
+                "averdis": 17.2,
+                "lineweightdis": 6.995372713469742,
+                "maxweightdis": 62.68709275081887,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.023031590796688886
+    },
+    {
+        "hubname": "qs",
+        "versionlist": [
+            {
+                "version": "qs@6.11.0",
+                "coverage": 0.021446544560828604,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 62.84188659371525,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.021446544560828604
+    },
+    {
+        "hubname": "@testing-library/jest-dom",
+        "versionlist": [
+            {
+                "version": "%40testing-library%2Fjest-dom@5.16.1",
+                "coverage": 0.017262704078026717,
+                "averdis": 1.1666666666666667,
+                "lineweightdis": 0.9636642784032753,
+                "maxweightdis": 62.91182239027493,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.16.5",
+                "coverage": 0.017134113458697052,
+                "averdis": 1.1666666666666667,
+                "lineweightdis": 0.9636642784032753,
+                "maxweightdis": 62.91992827172564,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.11.3",
+                "coverage": 0.018300616620467273,
+                "averdis": 10.666666666666666,
+                "lineweightdis": 11.347179289026274,
+                "maxweightdis": 63.03642091418227,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.11.8",
+                "coverage": 0.018230946021492018,
+                "averdis": 10.4,
+                "lineweightdis": 11.180092479922124,
+                "maxweightdis": 63.03704311714126,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.14.0",
+                "coverage": 0.01736238755012444,
+                "averdis": 10.4,
+                "lineweightdis": 11.180092479922122,
+                "maxweightdis": 63.082920295274675,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@4.1.2",
+                "coverage": 0.015112626417407293,
+                "averdis": 11,
+                "lineweightdis": 11.3510773130545,
+                "maxweightdis": 63.20433650015323,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@0.0.0",
+                "coverage": 0.015111902778176804,
+                "averdis": 11,
+                "lineweightdis": 11.351077313054498,
+                "maxweightdis": 63.204374598979136,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@4.2.4",
+                "coverage": 0.015021847363561073,
+                "averdis": 11,
+                "lineweightdis": 11.3510773130545,
+                "maxweightdis": 63.20911591954078,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.1.1",
+                "coverage": 0.009691966396334146,
+                "averdis": 12,
+                "lineweightdis": 12,
+                "maxweightdis": 63.496017747390624,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.6.0",
+                "coverage": 0.009598847417946062,
+                "averdis": 12,
+                "lineweightdis": 12,
+                "maxweightdis": 63.500859934266806,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.10.0",
+                "coverage": 0.009577029503719409,
+                "averdis": 12,
+                "lineweightdis": 12,
+                "maxweightdis": 63.50199446580659,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.018300616620467273
+    },
+    {
+        "hubname": "@alifd/next",
+        "versionlist": [
+            {
+                "version": "%40alifd%2Fnext@1.20.7",
+                "coverage": 0.00810637577761604,
+                "averdis": 11.166666666666666,
+                "lineweightdis": 12.259929798632921,
+                "maxweightdis": 63.58057554818748,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40alifd%2Fnext@1.21.6",
+                "coverage": 0.007939127004031897,
+                "averdis": 11.166666666666666,
+                "lineweightdis": 12.259929798632923,
+                "maxweightdis": 63.58922901147382,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "%40alifd%2Fnext@1.22.26",
+                "coverage": 0.007238005075829903,
+                "averdis": 11.166666666666666,
+                "lineweightdis": 12.259929798632921,
+                "maxweightdis": 63.625505109258704,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.00810637577761604
+    },
+    {
+        "hubname": "eslint-plugin-react",
+        "versionlist": [
+            {
+                "version": "eslint-plugin-react@6.8.0",
+                "coverage": 0.007293007293007293,
+                "averdis": 10,
+                "lineweightdis": 9.999999999999998,
+                "maxweightdis": 63.6061776061776,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.007293007293007293
+    },
+    {
+        "hubname": "express",
+        "versionlist": [
+            {
+                "version": "express@2.5.4",
+                "coverage": 0.006910986866296446,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.62680670921999,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "express@2.2.1",
+                "coverage": 0.0069070144359428595,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.627021220459085,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.006910986866296446
+    },
+    {
+        "hubname": "babel-loader",
+        "versionlist": [
+            {
+                "version": "babel-loader@8.0.3",
+                "coverage": 0.0040663486075668475,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.78041717519139,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.0040663486075668475
+    },
+    {
+        "hubname": "node-fetch",
+        "versionlist": [
+            {
+                "version": "node-fetch@0.1.0",
+                "coverage": 0.003956927867151012,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.786325895173846,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "node-fetch@1.1.0",
+                "coverage": 0.003952206378601934,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.78658085555549,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "node-fetch@1.4.0",
+                "coverage": 0.00393064452904757,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.787745195431434,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "node-fetch@1.6.3",
+                "coverage": 0.003915338821226271,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.78857170365378,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "node-fetch@2.0.0-alpha.5",
+                "coverage": 0.0036428603420904644,
+                "averdis": 10,
+                "lineweightdis": 10,
+                "maxweightdis": 63.80328554152711,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.003956927867151012
+    },
+    {
+        "hubname": "babel-core",
+        "versionlist": [
+            {
+                "version": "babel-core@5.0.7",
+                "coverage": 0.002908623245432845,
+                "averdis": 5,
+                "lineweightdis": 4.023136246786632,
+                "maxweightdis": 63.825549899899244,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "babel-core@4.7.1",
+                "coverage": 0.00301881967702181,
+                "averdis": 7.5,
+                "lineweightdis": 6.794117647058824,
+                "maxweightdis": 63.827305756711546,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "babel-core@4.0.1",
+                "coverage": 0.002824436229707863,
+                "averdis": 5.5,
+                "lineweightdis": 3.96423658872077,
+                "maxweightdis": 63.83043281474301,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.00301881967702181
+    },
+    {
+        "hubname": "prettier",
+        "versionlist": [
+            {
+                "version": "prettier@0.14.0",
+                "coverage": 0.002971799386751567,
+                "averdis": 12,
+                "lineweightdis": 11.672316384180792,
+                "maxweightdis": 63.84449262192038,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            },
+            {
+                "version": "prettier@1.0.1",
+                "coverage": 0.002746437486544202,
+                "averdis": 12,
+                "lineweightdis": 11.67231638418079,
+                "maxweightdis": 63.856285288133485,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.002971799386751567
+    },
+    {
+        "hubname": "babel-eslint",
+        "versionlist": [
+            {
+                "version": "babel-eslint@1.0.14",
+                "coverage": 0.0028784579592748996,
+                "averdis": 7.5,
+                "lineweightdis": 6.794117647058824,
+                "maxweightdis": 63.83533527262384,
+                "fnlist": [],
+                "averate": null,
+                "linerate": null
+            }
+        ],
+        "coverage": 0.0028784579592748996
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+]

@@ -1,0 +1,1333 @@
+[
+    {
+        "hubname": "js-cookie",
+        "versionlist": [
+            {
+                "version": "js-cookie@2.2.1",
+                "coverage": 1,
+                "averdis": 7.166666666666667,
+                "lineweightdis": 6.831993228946255,
+                "maxweightdis": 6.831993228946255,
+                "fnlist": []
+            },
+            {
+                "version": "js-cookie@2.2.0",
+                "coverage": 0.26328600405679514,
+                "averdis": 8,
+                "lineweightdis": 9.010785824345145,
+                "maxweightdis": 49.52210953346856,
+                "fnlist": []
+            },
+            {
+                "version": "js-cookie@2.0.2",
+                "coverage": 0.18208516886930984,
+                "averdis": 8,
+                "lineweightdis": 8.559139784946236,
+                "maxweightdis": 53.90504160548213,
+                "fnlist": []
+            },
+            {
+                "version": "js-cookie@2.1.2",
+                "coverage": 0.162944582299421,
+                "averdis": 4,
+                "lineweightdis": 4.487309644670051,
+                "maxweightdis": 54.302729528535984,
+                "fnlist": []
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "vuex",
+        "versionlist": [
+            {
+                "version": "vuex@4.0.0-beta.4",
+                "coverage": 1,
+                "averdis": 8.2,
+                "lineweightdis": 7.421013189448441,
+                "maxweightdis": 7.421013189448441,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@3.6.1",
+                "coverage": 1,
+                "averdis": 4.2,
+                "lineweightdis": 5.31487532244196,
+                "maxweightdis": 5.31487532244196,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@3.6.2",
+                "coverage": 1,
+                "averdis": 4.2,
+                "lineweightdis": 5.31487532244196,
+                "maxweightdis": 5.31487532244196,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@3.1.3",
+                "coverage": 1,
+                "averdis": 5.333333333333333,
+                "lineweightdis": 6.071106897369044,
+                "maxweightdis": 6.071106897369044,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@3.2.0",
+                "coverage": 1,
+                "averdis": 4.666666666666667,
+                "lineweightdis": 4.780913053452627,
+                "maxweightdis": 4.780913053452627,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@3.0.0",
+                "coverage": 1,
+                "averdis": 4.5,
+                "lineweightdis": 4.2533849129593815,
+                "maxweightdis": 4.2533849129593815,
+                "fnlist": []
+            },
+            {
+                "version": "vuex@4.1.0",
+                "coverage": 0.833607006020799,
+                "averdis": 9,
+                "lineweightdis": 6.6956007879185835,
+                "maxweightdis": 16.23065134099618,
+                "fnlist": []
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "popper.js",
+        "versionlist": [
+            {
+                "version": "popper.js@0.5.2",
+                "coverage": 1,
+                "averdis": 3.1818181818181817,
+                "lineweightdis": 2.3702609551944858,
+                "maxweightdis": 2.3702609551944858,
+                "fnlist": []
+            },
+            {
+                "version": "popper.js@0.3.3",
+                "coverage": 1,
+                "averdis": 7.8,
+                "lineweightdis": 7.1742907987019775,
+                "maxweightdis": 7.1742907987019775,
+                "fnlist": []
+            },
+            {
+                "version": "popper.js@1.0.0-alpha.5",
+                "coverage": 0.7578621346886912,
+                "averdis": 7.142857142857143,
+                "lineweightdis": 9.832233050403437,
+                "maxweightdis": 22.948300508259212,
+                "fnlist": []
+            },
+            {
+                "version": "popper.js@1.16.1",
+                "coverage": 0.680518049049325,
+                "averdis": 9.333333333333334,
+                "lineweightdis": 9.341998704243602,
+                "maxweightdis": 26.80424359327638,
+                "fnlist": []
+            },
+            {
+                "version": "popper.js@1.0.2",
+                "coverage": 0.6604593011778641,
+                "averdis": 9.142857142857142,
+                "lineweightdis": 9.337451429710073,
+                "maxweightdis": 27.89761137066526,
+                "fnlist": []
+            },
+            {
+                "version": "popper.js@1.14.1",
+                "coverage": 0.6201104330136588,
+                "averdis": 9.714285714285714,
+                "lineweightdis": 9.623582341362829,
+                "maxweightdis": 30.280616099970942,
+                "fnlist": []
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "axios",
+        "versionlist": [
+            {
+                "version": "axios@0.19.2",
+                "coverage": 1,
+                "averdis": 5.142857142857143,
+                "lineweightdis": 4.494651539708266,
+                "maxweightdis": 4.494651539708266,
+                "fnlist": []
+            },
+            {
+                "version": "axios@0.19.0",
+                "coverage": 1,
+                "averdis": 7,
+                "lineweightdis": 6.44212523719165,
+                "maxweightdis": 6.44212523719165,
+                "fnlist": []
+            },
+            {
+                "version": "axios@0.14.0",
+                "coverage": 1,
+                "averdis": 7.4,
+                "lineweightdis": 6.518501279962765,
+                "maxweightdis": 6.518501279962765,
+                "fnlist": []
+            },
+            {
+                "version": "axios@0.16.2",
+                "coverage": 0.8870374377840294,
+                "averdis": 6.75,
+                "lineweightdis": 6.502073676506465,
+                "maxweightdis": 12.997186756113395,
+                "fnlist": []
+            },
+            {
+                "version": "axios@0.21.2",
+                "coverage": 0.6181594817958456,
+                "averdis": 8.2,
+                "lineweightdis": 7.83649503161698,
+                "maxweightdis": 29.281996872905957,
+                "fnlist": []
+            }
+        ],
+        "coverage": 1
+    },
+    {
+        "hubname": "vue",
+        "versionlist": [
+            {
+                "version": "vue@2.6.13",
+                "coverage": 0.9808680441674866,
+                "averdis": 5.794117647058823,
+                "lineweightdis": 4.275033437360677,
+                "maxweightdis": 5.4176888597354305,
+                "fnlist": []
+            },
+            {
+                "version": "vue@2.6.12",
+                "coverage": 0.9807882314194755,
+                "averdis": 5.764705882352941,
+                "lineweightdis": 4.263622117752405,
+                "maxweightdis": 5.41126358546491,
+                "fnlist": []
+            },
+            {
+                "version": "vue@2.7.13",
+                "coverage": 0.9394134057705014,
+                "averdis": 7.361111111111111,
+                "lineweightdis": 6.673876091671064,
+                "maxweightdis": 10.14707069965495,
+                "fnlist": []
+            },
+            {
+                "version": "vue@2.4.4",
+                "coverage": 0.8817256299312801,
+                "averdis": 9.2,
+                "lineweightdis": 4.9484167075599705,
+                "maxweightdis": 11.932705523033858,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.9808680441674866
+    },
+    {
+        "hubname": "vue-router",
+        "versionlist": [
+            {
+                "version": "vue-router@3.4.7",
+                "coverage": 0.9684858603777523,
+                "averdis": 4.857142857142857,
+                "lineweightdis": 4.649391229393385,
+                "maxweightdis": 6.51977460085568,
+                "fnlist": []
+            },
+            {
+                "version": "vue-router@3.1.4",
+                "coverage": 0.936499202113025,
+                "averdis": 4.846153846153846,
+                "lineweightdis": 4.724543157647335,
+                "maxweightdis": 8.488581962251683,
+                "fnlist": []
+            },
+            {
+                "version": "vue-router@2.5.3",
+                "coverage": 0.8927157312551064,
+                "averdis": 7.083333333333333,
+                "lineweightdis": 6.274852154322728,
+                "maxweightdis": 12.467852429137086,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.9684858603777523
+    },
+    {
+        "hubname": "path",
+        "versionlist": [
+            {
+                "version": "path@0.11.14",
+                "coverage": 0.9423734331759726,
+                "averdis": 9.3125,
+                "lineweightdis": 9.489894627742272,
+                "maxweightdis": 12.63112485756146,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.9423734331759726
+    },
+    {
+        "hubname": "@angular/platform-browser-dynamic",
+        "versionlist": [
+            {
+                "version": "%40angular%2Fplatform-browser-dynamic@8.0.0-beta.13",
+                "coverage": 0.8793088248258838,
+                "averdis": 7,
+                "lineweightdis": 9.685983557248848,
+                "maxweightdis": 16.241206030150757,
+                "fnlist": []
+            },
+            {
+                "version": "%40angular%2Fplatform-browser-dynamic@5.2.10",
+                "coverage": 0.8674033149171271,
+                "averdis": 8,
+                "lineweightdis": 8,
+                "maxweightdis": 15.425414364640883,
+                "fnlist": []
+            },
+            {
+                "version": "%40angular%2Fplatform-browser-dynamic@0.0.0-0",
+                "coverage": 0.33333333333333337,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 45.666666666666664,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.8793088248258838
+    },
+    {
+        "hubname": "vue-virtual-scroll-list",
+        "versionlist": [
+            {
+                "version": "vue-virtual-scroll-list@1.3.0",
+                "coverage": 0.8430769230769232,
+                "averdis": 9,
+                "lineweightdis": 5.531443009545199,
+                "maxweightdis": 14.70650887573964,
+                "fnlist": []
+            },
+            {
+                "version": "vue-virtual-scroll-list@2.1.7",
+                "coverage": 0.7786861026297647,
+                "averdis": 8.5,
+                "lineweightdis": 6.806096635466734,
+                "maxweightdis": 19.463902294888207,
+                "fnlist": []
+            },
+            {
+                "version": "vue-virtual-scroll-list@1.2.0",
+                "coverage": 0.768236254763201,
+                "averdis": 9.6,
+                "lineweightdis": 7.343844109831707,
+                "maxweightdis": 20.47468698965704,
+                "fnlist": []
+            },
+            {
+                "version": "vue-virtual-scroll-list@2.2.3",
+                "coverage": 0.743778801843318,
+                "averdis": 9,
+                "lineweightdis": 7.449566294919455,
+                "maxweightdis": 21.938986175115204,
+                "fnlist": []
+            },
+            {
+                "version": "vue-virtual-scroll-list@2.3.5",
+                "coverage": 0.7011860940695296,
+                "averdis": 9,
+                "lineweightdis": 7.359309379374709,
+                "maxweightdis": 24.284335378323114,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.8430769230769232
+    },
+    {
+        "hubname": "core-js",
+        "versionlist": [
+            {
+                "version": "core-js@3.0.0-alpha.3",
+                "coverage": 0.7650355342663034,
+                "averdis": 8.68,
+                "lineweightdis": 9.090072024881323,
+                "maxweightdis": 21.99195391503084,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@1.2.1",
+                "coverage": 0.7118519606403291,
+                "averdis": 9.8,
+                "lineweightdis": 8.547245719001443,
+                "maxweightdis": 24.525848142164776,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@3.6.1",
+                "coverage": 0.6835816238982917,
+                "averdis": 8.955555555555556,
+                "lineweightdis": 9.306839186691317,
+                "maxweightdis": 26.612760315108037,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@3.15.1",
+                "coverage": 0.6810630308572695,
+                "averdis": 9.529411764705882,
+                "lineweightdis": 9.94816186194129,
+                "maxweightdis": 27.187291294287185,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@3.26.1",
+                "coverage": 0.6389748789248311,
+                "averdis": 7.783333333333333,
+                "lineweightdis": 8.231515867656986,
+                "maxweightdis": 28.36533960371476,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@3.6.4",
+                "coverage": 0.6301842426867564,
+                "averdis": 8.69047619047619,
+                "lineweightdis": 9.07742347251884,
+                "maxweightdis": 29.38865770462386,
+                "fnlist": []
+            },
+            {
+                "version": "core-js@3.22.0",
+                "coverage": 0.5837660834187808,
+                "averdis": 7.1525423728813555,
+                "lineweightdis": 6.871267493909005,
+                "maxweightdis": 30.65018357424007,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.7650355342663034
+    },
+    {
+        "hubname": "moment",
+        "versionlist": [
+            {
+                "version": "moment@1.7.2",
+                "coverage": 0.6920123131604835,
+                "averdis": 8.192307692307692,
+                "lineweightdis": 9.405805741539027,
+                "maxweightdis": 26.220145346069636,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.19.2",
+                "coverage": 0.6704595960873444,
+                "averdis": 5.715909090909091,
+                "lineweightdis": 6.403346896979171,
+                "maxweightdis": 25.383771224565763,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.16.0",
+                "coverage": 0.665754072601334,
+                "averdis": 5.8875,
+                "lineweightdis": 6.701060287680552,
+                "maxweightdis": 25.852997530785018,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.22.2",
+                "coverage": 0.6640874851102609,
+                "averdis": 5.582417582417582,
+                "lineweightdis": 6.201136871752437,
+                "maxweightdis": 25.616498342929887,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.12.0",
+                "coverage": 0.6158993503257432,
+                "averdis": 6.538461538461538,
+                "lineweightdis": 7.748199639560117,
+                "maxweightdis": 29.354552703351672,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.29.4",
+                "coverage": 0.6125464967285835,
+                "averdis": 4.882352941176471,
+                "lineweightdis": 4.368098900461844,
+                "maxweightdis": 27.472687888212533,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.26.0",
+                "coverage": 0.5901612150106904,
+                "averdis": 5.051546391752577,
+                "lineweightdis": 4.481875344847329,
+                "maxweightdis": 28.87471123835737,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.9.0",
+                "coverage": 0.5606337805484032,
+                "averdis": 8.645833333333334,
+                "lineweightdis": 9.081794009225872,
+                "maxweightdis": 33.21099855445634,
+                "fnlist": []
+            },
+            {
+                "version": "moment@1.5.0",
+                "coverage": 0.5443437531819572,
+                "averdis": 5.714285714285714,
+                "lineweightdis": 5.871773288439953,
+                "maxweightdis": 32.35826290601771,
+                "fnlist": []
+            },
+            {
+                "version": "moment@2.5.1",
+                "coverage": 0.48800570491755074,
+                "averdis": 6.513513513513513,
+                "lineweightdis": 7.585085869237721,
+                "maxweightdis": 36.46920006175426,
+                "fnlist": []
+            },
+            {
+                "version": "moment@1.0.0",
+                "coverage": 0.39527939712782595,
+                "averdis": 6.6,
+                "lineweightdis": 6.80521582733813,
+                "maxweightdis": 41.3920801933741,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.6920123131604835
+    },
+    {
+        "hubname": "execa",
+        "versionlist": [
+            {
+                "version": "execa@0.1.0",
+                "coverage": 0.6106,
+                "averdis": 8,
+                "lineweightdis": 7.970520799213887,
+                "maxweightdis": 29.788399999999996,
+                "fnlist": []
+            },
+            {
+                "version": "execa@2.0.5",
+                "coverage": 0.06339096148013346,
+                "averdis": 8,
+                "lineweightdis": 8.326555023923444,
+                "maxweightdis": 60.4708067940552,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.6106
+    },
+    {
+        "hubname": "jquery",
+        "versionlist": [
+            {
+                "version": "jquery@2.1.1-rc1",
+                "coverage": 0.5715640238396245,
+                "averdis": 9.647058823529411,
+                "lineweightdis": 7.561287094820549,
+                "maxweightdis": 31.74166215158629,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.5715640238396245
+    },
+    {
+        "hubname": "@testing-library/react",
+        "versionlist": [
+            {
+                "version": "%40testing-library%2Freact@8.0.8",
+                "coverage": 0.5708047565007153,
+                "averdis": 6.3760683760683765,
+                "lineweightdis": 7.382858624713664,
+                "maxweightdis": 31.68266640351311,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@0.0.0",
+                "coverage": 0.5700334560218376,
+                "averdis": 6.3760683760683765,
+                "lineweightdis": 7.383014953755722,
+                "maxweightdis": 31.726424344552672,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@12.1.0",
+                "coverage": 0.5232453008196132,
+                "averdis": 6.092198581560283,
+                "lineweightdis": 6.365443970725407,
+                "maxweightdis": 33.84298939285736,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@13.0.0-alpha.5",
+                "coverage": 0.5216408047383622,
+                "averdis": 6.163120567375887,
+                "lineweightdis": 6.40679641411582,
+                "maxweightdis": 33.957034933999054,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@13.4.0",
+                "coverage": 0.5133817351171195,
+                "averdis": 6.162962962962963,
+                "lineweightdis": 6.471149968125103,
+                "maxweightdis": 34.46573915134351,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@9.1.3",
+                "coverage": 0.512612886258066,
+                "averdis": 6.739495798319328,
+                "lineweightdis": 6.727645860130353,
+                "maxweightdis": 34.641453241567326,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@10.0.0-beta.1",
+                "coverage": 0.5083297815862476,
+                "averdis": 6.629310344827586,
+                "lineweightdis": 6.4893391681682795,
+                "maxweightdis": 34.76561834047421,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@11.0.1",
+                "coverage": 0.4905792365171617,
+                "averdis": 6.721739130434782,
+                "lineweightdis": 7.047833727026553,
+                "maxweightdis": 36.06044975180624,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@10.1.0",
+                "coverage": 0.4905047193805461,
+                "averdis": 6.7043478260869565,
+                "lineweightdis": 7.038313072535576,
+                "maxweightdis": 36.060023738201544,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@11.2.2",
+                "coverage": 0.48565413810033436,
+                "averdis": 6.614035087719298,
+                "lineweightdis": 6.93926324593622,
+                "maxweightdis": 36.28821707233509,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Freact@10.4.3",
+                "coverage": 0.4855461935602345,
+                "averdis": 6.614035087719298,
+                "lineweightdis": 6.939780066329198,
+                "maxweightdis": 36.29462740749632,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.5708047565007153
+    },
+    {
+        "hubname": "jsonwebtoken",
+        "versionlist": [
+            {
+                "version": "jsonwebtoken@7.1.5",
+                "coverage": 0.5644260937518221,
+                "averdis": 6.623076923076923,
+                "lineweightdis": 5.459751778179131,
+                "maxweightdis": 30.9583563688956,
+                "fnlist": []
+            },
+            {
+                "version": "jsonwebtoken@7.3.0",
+                "coverage": 0.5640603035693053,
+                "averdis": 6.623076923076923,
+                "lineweightdis": 5.459751778179131,
+                "maxweightdis": 30.97976981697724,
+                "fnlist": []
+            },
+            {
+                "version": "jsonwebtoken@0.1.0",
+                "coverage": 0.5555621909562143,
+                "averdis": 5.857142857142857,
+                "lineweightdis": 6.971794044931742,
+                "maxweightdis": 32.31728495330005,
+                "fnlist": []
+            },
+            {
+                "version": "jsonwebtoken@6.1.1",
+                "coverage": 0.5333588133258853,
+                "averdis": 6.2727272727272725,
+                "lineweightdis": 5.394023041142474,
+                "maxweightdis": 32.74198567541957,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.5644260937518221
+    },
+    {
+        "hubname": "@testing-library/jest-dom",
+        "versionlist": [
+            {
+                "version": "%40testing-library%2Fjest-dom@5.16.1",
+                "coverage": 0.5084969326425729,
+                "averdis": 5.616,
+                "lineweightdis": 6.307711759331767,
+                "maxweightdis": 34.66364839248902,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.16.5",
+                "coverage": 0.5068897274839286,
+                "averdis": 5.771653543307087,
+                "lineweightdis": 6.391250575939081,
+                "maxweightdis": 34.798716703747836,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.11.8",
+                "coverage": 0.4673691295803088,
+                "averdis": 7.111111111111111,
+                "lineweightdis": 7.263928523803175,
+                "maxweightdis": 37.483311658363704,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.14.0",
+                "coverage": 0.45592840633898923,
+                "averdis": 7.2521008403361344,
+                "lineweightdis": 7.545083349913922,
+                "maxweightdis": 38.26059982172578,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fjest-dom@5.11.3",
+                "coverage": 0.3996960388658974,
+                "averdis": 7.519685039370079,
+                "lineweightdis": 7.888403874753803,
+                "maxweightdis": 41.57241729429605,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.5084969326425729
+    },
+    {
+        "hubname": "react-router-dom",
+        "versionlist": [
+            {
+                "version": "react-router-dom@5.0.1",
+                "coverage": 0.4790601103965159,
+                "averdis": 9.1,
+                "lineweightdis": 7.4330866807611,
+                "maxweightdis": 36.901048260495266,
+                "fnlist": []
+            },
+            {
+                "version": "react-router-dom@4.1.1",
+                "coverage": 0.4434079353004764,
+                "averdis": 9.615384615384615,
+                "lineweightdis": 8.887674943566592,
+                "maxweightdis": 39.562757737118154,
+                "fnlist": []
+            },
+            {
+                "version": "react-router-dom@6.0.0-alpha.0",
+                "coverage": 0.39040298159795017,
+                "averdis": 9.333333333333334,
+                "lineweightdis": 9.97016706443914,
+                "maxweightdis": 42.90659212671791,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.4790601103965159
+    },
+    {
+        "hubname": "@testing-library/user-event",
+        "versionlist": [
+            {
+                "version": "%40testing-library%2Fuser-event@13.0.6",
+                "coverage": 0.4285382291424588,
+                "averdis": 9.5,
+                "lineweightdis": 7.799710773680404,
+                "maxweightdis": 39.91602757765899,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fuser-event@11.4.1",
+                "coverage": 0.37902159541648306,
+                "averdis": 6.75,
+                "lineweightdis": 6.998255813953488,
+                "maxweightdis": 42.39510797708241,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fuser-event@12.0.15",
+                "coverage": 0.32459860648288397,
+                "averdis": 9.8,
+                "lineweightdis": 9.653756416238917,
+                "maxweightdis": 46.35928506513178,
+                "fnlist": []
+            },
+            {
+                "version": "%40testing-library%2Fuser-event@13.1.9",
+                "coverage": 0.3142540337998012,
+                "averdis": 6.875,
+                "lineweightdis": 5.027983939652025,
+                "maxweightdis": 45.46780607172899,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.4285382291424588
+    },
+    {
+        "hubname": "request",
+        "versionlist": [
+            {
+                "version": "request@2.9.153",
+                "coverage": 0.42272256132673036,
+                "averdis": 9,
+                "lineweightdis": 3.787494891704128,
+                "maxweightdis": 38.546815616722334,
+                "fnlist": []
+            },
+            {
+                "version": "request@2.2.0",
+                "coverage": 0.4174964438122333,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 37.28022759601707,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.42272256132673036
+    },
+    {
+        "hubname": "commander",
+        "versionlist": [
+            {
+                "version": "commander@2.15.0",
+                "coverage": 0.3816615826305401,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 43.008612955320295,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.3816615826305401
+    },
+    {
+        "hubname": "qs",
+        "versionlist": [
+            {
+                "version": "qs@6.3.3",
+                "coverage": 0.3610185308625517,
+                "averdis": 7.666666666666667,
+                "lineweightdis": 7.196454948301329,
+                "maxweightdis": 43.49286761765097,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.3610185308625517
+    },
+    {
+        "hubname": "mkdirp",
+        "versionlist": [
+            {
+                "version": "mkdirp@0.0.1",
+                "coverage": 0.33724340175953077,
+                "averdis": 6,
+                "lineweightdis": 6,
+                "maxweightdis": 44.43988269794722,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.33724340175953077
+    },
+    {
+        "hubname": "@alifd/next",
+        "versionlist": [
+            {
+                "version": "%40alifd%2Fnext@1.27.0-beta",
+                "coverage": 0.31973953415171535,
+                "averdis": 9.721649484536082,
+                "lineweightdis": 9.965883221559103,
+                "maxweightdis": 46.72315667296193,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.25.26",
+                "coverage": 0.3160866353840809,
+                "averdis": 9.735395189003436,
+                "lineweightdis": 9.97302424038323,
+                "maxweightdis": 46.92279501216544,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.22.26",
+                "coverage": 0.3113939645287993,
+                "averdis": 9.688212927756654,
+                "lineweightdis": 9.714677989870216,
+                "maxweightdis": 47.0958783635432,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.24.0",
+                "coverage": 0.3102852823349646,
+                "averdis": 9.666666666666666,
+                "lineweightdis": 9.785719607229598,
+                "maxweightdis": 47.178106701742294,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.21.6",
+                "coverage": 0.30739501475946496,
+                "averdis": 9.907172995780591,
+                "lineweightdis": 9.996921131244408,
+                "maxweightdis": 47.39972277408233,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.13.10",
+                "coverage": 0.29853666732590417,
+                "averdis": 9.587912087912088,
+                "lineweightdis": 9.942031024657933,
+                "maxweightdis": 47.861714099694254,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.20.7",
+                "coverage": 0.29723138342844335,
+                "averdis": 9.864628820960698,
+                "lineweightdis": 9.878514571683622,
+                "maxweightdis": 47.91339601293919,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.19.10-beta4",
+                "coverage": 0.29675976516390623,
+                "averdis": 9.671111111111111,
+                "lineweightdis": 9.726877346087154,
+                "maxweightdis": 47.89392086651294,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.17.5",
+                "coverage": 0.2909125781956957,
+                "averdis": 9.56020942408377,
+                "lineweightdis": 9.669016505220927,
+                "maxweightdis": 48.19443351562603,
+                "fnlist": []
+            },
+            {
+                "version": "%40alifd%2Fnext@1.9.11",
+                "coverage": 0.2577087800620748,
+                "averdis": 9.33108108108108,
+                "lineweightdis": 9.382494542627313,
+                "maxweightdis": 49.92458929854678,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.31973953415171535
+    },
+    {
+        "hubname": "glob",
+        "versionlist": [
+            {
+                "version": "glob@3.1.3",
+                "coverage": 0.3033492822966507,
+                "averdis": 9.666666666666666,
+                "lineweightdis": 9.688298032146612,
+                "maxweightdis": 47.524584187742086,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.3033492822966507
+    },
+    {
+        "hubname": "async",
+        "versionlist": [
+            {
+                "version": "async@0.4.1",
+                "coverage": 0.16278392545136866,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 55.04688410017472,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.16278392545136866
+    },
+    {
+        "hubname": "prop-types",
+        "versionlist": [
+            {
+                "version": "prop-types@15.7.0",
+                "coverage": 0.14642549526270457,
+                "averdis": 8,
+                "lineweightdis": 8,
+                "maxweightdis": 55.800172265288545,
+                "fnlist": []
+            },
+            {
+                "version": "prop-types@15.7.2",
+                "coverage": 0.14642549526270457,
+                "averdis": 8,
+                "lineweightdis": 8,
+                "maxweightdis": 55.800172265288545,
+                "fnlist": []
+            },
+            {
+                "version": "prop-types@15.8.1",
+                "coverage": 0.1440677966101695,
+                "averdis": 8,
+                "lineweightdis": 8,
+                "maxweightdis": 55.932203389830505,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.14642549526270457
+    },
+    {
+        "hubname": "ejs",
+        "versionlist": [
+            {
+                "version": "ejs@0.3.0",
+                "coverage": 0.1317650083558298,
+                "averdis": 7,
+                "lineweightdis": 7,
+                "maxweightdis": 56.4893945237177,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.1317650083558298
+    },
+    {
+        "hubname": "jest",
+        "versionlist": [
+            {
+                "version": "jest@0.1.2",
+                "coverage": 0.1297205133522269,
+                "averdis": 8.5,
+                "lineweightdis": 8.498401420959146,
+                "maxweightdis": 56.80030414045759,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.1297205133522269
+    },
+    {
+        "hubname": "react",
+        "versionlist": [
+            {
+                "version": "react@0.0.0-experimental-e7c5af45c-20221023",
+                "coverage": 0.12823716492503406,
+                "averdis": 5,
+                "lineweightdis": 5,
+                "maxweightdis": 56.43400726942299,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.12823716492503406
+    },
+    {
+        "hubname": "chokidar",
+        "versionlist": [
+            {
+                "version": "chokidar@0.8.0",
+                "coverage": 0.11977351916376307,
+                "averdis": 7,
+                "lineweightdis": 7,
+                "maxweightdis": 57.1729094076655,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.11977351916376307
+    },
+    {
+        "hubname": "babel-loader",
+        "versionlist": [
+            {
+                "version": "babel-loader@6.4.1",
+                "coverage": 0.0941351048566206,
+                "averdis": 9.6,
+                "lineweightdis": 8.708215888923686,
+                "maxweightdis": 58.79510210499421,
+                "fnlist": []
+            },
+            {
+                "version": "babel-loader@6.2.0",
+                "coverage": 0.07864393016646365,
+                "averdis": 9.375,
+                "lineweightdis": 8.326277749096542,
+                "maxweightdis": 59.621599675192854,
+                "fnlist": []
+            },
+            {
+                "version": "babel-loader@6.2.7",
+                "coverage": 0.07461663753376768,
+                "averdis": 9.625,
+                "lineweightdis": 8.453347530946358,
+                "maxweightdis": 59.85529556650246,
+                "fnlist": []
+            },
+            {
+                "version": "babel-loader@4.0.0",
+                "coverage": 0.06867363385847242,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231375,
+                "maxweightdis": 60.13297977434618,
+                "fnlist": []
+            },
+            {
+                "version": "babel-loader@5.1.3",
+                "coverage": 0.06740907838193715,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231375,
+                "maxweightdis": 60.20418703875716,
+                "fnlist": []
+            },
+            {
+                "version": "babel-loader@5.3.2",
+                "coverage": 0.06722517992202531,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231375,
+                "maxweightdis": 60.21454238219815,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.0941351048566206
+    },
+    {
+        "hubname": "sass-loader",
+        "versionlist": [
+            {
+                "version": "sass-loader@0.0.1",
+                "coverage": 0.07907886601595362,
+                "averdis": 9.777777777777779,
+                "lineweightdis": 8.37144321968726,
+                "maxweightdis": 59.600956811708784,
+                "fnlist": []
+            },
+            {
+                "version": "sass-loader@1.0.4",
+                "coverage": 0.07798344589029813,
+                "averdis": 9.25,
+                "lineweightdis": 8.114191419141916,
+                "maxweightdis": 59.64183207049909,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.07907886601595362
+    },
+    {
+        "hubname": "file-loader",
+        "versionlist": [
+            {
+                "version": "file-loader@0.6.1",
+                "coverage": 0.0782776045365196,
+                "averdis": 8.25,
+                "lineweightdis": 7.072048382855641,
+                "maxweightdis": 59.54381631623905,
+                "fnlist": []
+            },
+            {
+                "version": "file-loader@0.9.0",
+                "coverage": 0.07681444754826672,
+                "averdis": 8.5,
+                "lineweightdis": 7.383789586688138,
+                "maxweightdis": 59.651057074825026,
+                "fnlist": []
+            },
+            {
+                "version": "file-loader@0.8.1",
+                "coverage": 0.06867363385847242,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231375,
+                "maxweightdis": 60.13297977434618,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.0782776045365196
+    },
+    {
+        "hubname": "url-loader",
+        "versionlist": [
+            {
+                "version": "url-loader@0.5.2",
+                "coverage": 0.07634792294047274,
+                "averdis": 9.375,
+                "lineweightdis": 8.15507226799946,
+                "maxweightdis": 59.73635576090095,
+                "fnlist": []
+            },
+            {
+                "version": "url-loader@0.5.5",
+                "coverage": 0.06867363385847242,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231375,
+                "maxweightdis": 60.13297977434618,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.07634792294047274
+    },
+    {
+        "hubname": "semver",
+        "versionlist": [
+            {
+                "version": "semver@7.2.3",
+                "coverage": 0.07264607836970878,
+                "averdis": 0,
+                "lineweightdis": 0,
+                "maxweightdis": 59.350650984338635,
+                "fnlist": []
+            },
+            {
+                "version": "semver@1.0.0",
+                "coverage": 0.046501209569035036,
+                "averdis": 7,
+                "lineweightdis": 7,
+                "maxweightdis": 61.349431054565,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.07264607836970878
+    },
+    {
+        "hubname": "vue-i18n",
+        "versionlist": [
+            {
+                "version": "vue-i18n@9.0.0-alpha.6",
+                "coverage": 0.07157383717116053,
+                "averdis": 8,
+                "lineweightdis": 8.007332722273144,
+                "maxweightdis": 59.99238994948501,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.07157383717116053
+    },
+    {
+        "hubname": "style-loader",
+        "versionlist": [
+            {
+                "version": "style-loader@0.9.0",
+                "coverage": 0.06787255909558067,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231377,
+                "maxweightdis": 60.178088386433714,
+                "fnlist": []
+            },
+            {
+                "version": "style-loader@0.12.2",
+                "coverage": 0.06775904702297283,
+                "averdis": 9,
+                "lineweightdis": 7.689884918231374,
+                "maxweightdis": 60.18448026430543,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.06787255909558067
+    },
+    {
+        "hubname": "styled-components",
+        "versionlist": [
+            {
+                "version": "styled-components@5.2.0-test.10",
+                "coverage": 0.057646701124961994,
+                "averdis": 9.333333333333334,
+                "lineweightdis": 8.693565400843882,
+                "maxweightdis": 60.81176649437519,
+                "fnlist": []
+            },
+            {
+                "version": "styled-components@4.0.0-beta.10-1",
+                "coverage": 0.021343949350088733,
+                "averdis": 3,
+                "lineweightdis": 3,
+                "maxweightdis": 62.69801908964458,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.057646701124961994
+    },
+    {
+        "hubname": "minimist",
+        "versionlist": [
+            {
+                "version": "minimist@0.0.2",
+                "coverage": 0.04558969276511397,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.492566897918735,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@0.0.8",
+                "coverage": 0.04423076923076923,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.56730769230769,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@0.1.0",
+                "coverage": 0.043273753527751646,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.61994355597366,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@0.0.5",
+                "coverage": 0.04287045666356011,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.64212488350419,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@0.2.2",
+                "coverage": 0.0377255330781848,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.92509568069983,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@1.1.0",
+                "coverage": 0.03688853247794707,
+                "averdis": 9,
+                "lineweightdis": 9,
+                "maxweightdis": 61.97113071371291,
+                "fnlist": []
+            },
+            {
+                "version": "minimist@1.2.7",
+                "coverage": 0.029359430604982206,
+                "averdis": 7,
+                "lineweightdis": 7,
+                "maxweightdis": 62.32651245551601,
+                "fnlist": []
+            }
+        ],
+        "coverage": 0.04558969276511397
+    },
+    null
+]
