@@ -26,5 +26,6 @@ docker pull nginx:1.17
 
  docker run -d -p 3001:80 --name nginxtest -v {yourpath}/nginx/www:/usr/share/nginx/html -v {yourpath}/nginx/conf/nginx.conf:/etc/nginx.nginx.conf -v {yourpath}/nginx/logs:/var/log/nginx nginx:1.17
 
-
+#访问地址
+localhost:3001
 ```
